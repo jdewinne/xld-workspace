@@ -9,6 +9,6 @@
   - Let these people interact with the pipeline design team often, seeing how to address and/or onboard new issues, evolving the pipeline continuously
   - Document, document, document.
 - Maintenance phase. After the first 55 projects / teams.
-  - Onboarding team will dissolve, focusing on finishing documentation and not taking teams by the hand anymore. The documentation will be mature enough to support the future teams.
+  - Onboarding team will start focusing on finishing documentation and not taking teams by the hand anymore. The documentation will be mature enough to support the future teams. This gives the onboarding team the time to focus on adding more features into the CD pipeline like adding more tools support.
   - Change process for templates, plugins, documentation, etc
   - Maintenance process to keep CI/CD tooling up to date (Jenkins/XLD/XLR upgrades)
